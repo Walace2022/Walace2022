@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou Henrique Walace.<br>Comecei a me interessar em programação e deu inicio aos meus estudos de programação para WEB,<br>atualmente estou fazendo um curso Técnico de Informática.
+Olá, sou Henrique Walace.<br>Comecei a me interessar em programação e dei inicio aos meus estudos de programação para WEB,<br>atualmente estou fazendo um curso Técnico de Informática.
 
 
 ## 🌐 Socials:
